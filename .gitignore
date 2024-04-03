@@ -1,0 +1,35 @@
+Library/
+Temp/
+ProjectSettings/
+
+
+
+# Ignore Visual Studio/Visual Studio Code settings
+*.sln
+*.csproj
+*.suo
+*.sln
+*.csproj
+.vscode/
+
+# Ignore Rider settings
+.idea/
+
+# Ignore macOS .DS_Store files
+.DS_Store
+
+
+
+
+
+# Exclude Visual Studio user-specific settings
+*.suo
+
+# Exclude Unity user preferences
+*.userprefs
+
+# Exclude Visual Studio Code settings
+.vscode/
+
+# Exclude JetBrains IDE settings (e.g., Rider or IntelliJ IDEA)
+.idea/
